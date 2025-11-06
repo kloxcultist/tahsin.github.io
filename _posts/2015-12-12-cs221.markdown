@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invariant Manifolds"
-date:   2023-10 
+date:   2023-10-15 
 author: "Tahsin Hossain"
 code: https://github.com/leonidk/drbayes](https://github.com/kloxcultist/Chaos-deltaV
 poster: /pdfs/cs229-poster.pdf
