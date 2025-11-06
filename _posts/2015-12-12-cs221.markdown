@@ -2,7 +2,7 @@
 layout: post
 title:  "Invariant Manifolds"
 date:   2023-10-15 
-categories: Stanford
+categories: KUET
 author: "Tahsin Hossain"
 subtitle: "Orbital transfer of satellite"
 course: "National Mechanical Festival"
